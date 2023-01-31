@@ -20,3 +20,16 @@ Other teams that would be good to watch:
 * Memphis Grizzlies
 
 **(to AboutMe.md)[AboutMe.md]**
+<hr>
+
+## Tables
+Tables are useful for separating information. Here is a table of the countries I recommend you visit!
+| Name | Why go here? | Days |
+| --- | --- | ---: |
+| England | Tea, Big Ben, Palace Guard | 7 |
+| France | Wine, Eiffel Tower, Mopeds | 12 |
+| Italy | Pasta, Amazing History, Coastlines | 14 |
+| USA | Nice cities, beaches, mountains, all! | 15 |
+
+
+
