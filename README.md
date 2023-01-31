@@ -20,7 +20,6 @@ Other teams that would be good to watch:
 * Memphis Grizzlies
 
 **[to AboutMe.md](AboutMe.md)**
-**(to AboutMe.md)[AboutMe.md]**
 <hr>
 
 ## Tables
@@ -31,6 +30,8 @@ Tables are useful for separating information. Here is a table of the countries I
 | France | Wine, Eiffel Tower, Mopeds | 12 |
 | Italy | Pasta, Amazing History, Coastlines | 14 |
 | USA | Nice cities, beaches, mountains, all! | 15 |
+<hr>
 
-
-
+## Quotes
+> "I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character." *- Martin Luther King Jr.*
+> "Man cannot remake himself without suffering, for he is both the marble and the sculptor" *-Alexis Carrel*
