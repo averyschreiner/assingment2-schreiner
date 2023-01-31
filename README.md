@@ -36,3 +36,20 @@ Tables are useful for separating information. Here is a table of the countries I
 > "I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character." *- Martin Luther King Jr.*
 
 > "Man cannot remake himself without suffering, for he is both the marble and the sculptor" *-Alexis Carrel*
+<hr>
+
+## Code Fencing
+
+> Serving your XHTML with the correct MIME type [to StackOverflow](https://stackoverflow.com/questions/6009240/serving-your-xhtml-with-the-correct-mime-type)
+
+
+```
+RewriteEngine On
+RewriteCond %{HTTP_ACCEPT} application/xhtml\+xml
+RewriteCond %{HTTP_ACCEPT} !application/xhtml\+xml\s*;\s*q=0
+RewriteCond %{REQUEST_URI} \.html$
+RewriteCond %{THE_REQUEST} HTTP/1\.1
+RewriteRule .* - "[T=application/xhtml+xml; charset=ISO-8859-1]"
+```
+
+[snippet source](https://css-tricks.com/snippets/htaccess/force-correct-content-type-for-xhtml-documents/)
