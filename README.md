@@ -13,3 +13,8 @@ LA Lakers
 2. Anthony Davis
 3. Russell Westbrook
 
+## Unordered List
+Other teams that would be good to watch:
+* Boston Celtics
+* Milwaukee Bucks
+* Memphis Grizzlies
