@@ -19,4 +19,4 @@ Other teams that would be good to watch:
 * Milwaukee Bucks
 * Memphis Grizzlies
 
-**(to AboutMe.md)[AboutMe.md]**
+**[to AboutMe.md](AboutMe.md)**
